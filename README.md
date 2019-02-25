@@ -36,7 +36,7 @@
 
 2.2. [Разработать инструкцию «Первая медицинская помощь при электротравме на рабочем месте программиста»](https://github.com/Kseniaveh/portfolio__practic/tree/master/2.2)  
 
-2.3. [Изучить прикладное программное обеспечение информационно-вычислительной системы предприятия](https://github.com/Kseniaveh/portfolio__practic/tree/master/2.3)  
+2.3. [Изучить системное программное обеспечение информационно-вычислительной системы предприятия (организации).](https://github.com/Kseniaveh/portfolio__practic/tree/master/2.3)  
 
-2.4. [Изучить технические средства информационно-вычислительной системы предприятия (организации)](https://github.com/Kseniaveh/portfolio__practic/tree/master/2.4)  
+2.4. [Изучить локальную вычислительную сеть предприятия (организации).](https://github.com/Kseniaveh/portfolio__practic/tree/master/2.4)  
 
