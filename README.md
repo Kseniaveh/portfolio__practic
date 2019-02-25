@@ -12,8 +12,7 @@
 
 1.3. [Изучить стандарты и спецификации в сфере ИТ ](https://github.com/Kseniaveh/portfolio__practic/tree/master/1.3)
 
-1.4. [Изучить и освоить комплекс физических упражнений для программиста]
-(https://github.com/Kseniaveh/portfolio__practic/tree/master/1.4)
+1.4. [Изучить и освоить комплекс физических упражнений для программиста](https://github.com/Kseniaveh/portfolio__practic/tree/master/1.4)
 
 1.5. [Изучить и освоить гимнастику для глаз]
 (https://github.com/Kseniaveh/portfolio__practic/tree/master/1.5)
