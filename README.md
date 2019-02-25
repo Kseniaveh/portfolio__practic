@@ -10,8 +10,7 @@
 
 1.2. [Выделить важные этапы в истории развития информатики и их социальные последствия ](https://github.com/Kseniaveh/portfolio__practic/tree/master/1.2)  
 
-1.2. [Изучить стандарты и спецификации в сфере ИТ ]
-(https://github.com/Kseniaveh/portfolio__practic/tree/master/1.3)
+1.3. [Изучить стандарты и спецификации в сфере ИТ ](https://github.com/Kseniaveh/portfolio__practic/tree/master/1.3)
 
 1.4. [Изучить и освоить комплекс физических упражнений для программиста]
 (https://github.com/Kseniaveh/portfolio__practic/tree/master/1.4)
